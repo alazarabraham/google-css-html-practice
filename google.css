@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.headerleft{
+    float: left;
+}
+.headerright{
+    float: right;
+}
+.centerstage{
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.googlelogo{
+
+}
+.searchbar{
+
+}
+.footerleft{
+    float: left;
+}
+
+.footerright{
+    float: right;
+}
